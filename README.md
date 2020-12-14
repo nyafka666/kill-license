@@ -1,6 +1,6 @@
 
-## kill-license
+## Kill-License
 
-ENG: I don't think this is what you search) Just a program that counts the term of licenses. :wink:
+ENG: I don't think this is what you need) Just a program that counts the term of licenses. :wink:
 
-RU: Я не думаю что это то что ты искал) Просто программа которая считает срок действия лицензии. :wink:
+RU: Это не то что тебе нужно) Просто программа которая считает срок действия лицензии. :wink:
